@@ -1,0 +1,20 @@
+DATE,WEEK,DELIVERABLES
+26 Nov,8,Problem description
+,,Data understanding
+,,What type of data you have got for analysis
+,,"What are the problems in the data ( number of NA values, outliers , skewed etc)"
+,,"What approaches you are trying to apply on your data set to overcome problems like NA value, outlier etc and why?"
+2 Dec,9,Problem description
+,,Github Repo link
+,,Data cleansing and transformation done on the data.
+9 Dec,10,Submit a pdf document and EDA ipynb file which should contain following details:
+,,Problem description
+,,Github Repo link
+,,EDA performed on the data
+,,Final Recommendation
+16 Dec,11,Problem description
+,,Github Repo link
+,,EDA presentation for business users
+23 Dec,12,upload the code of each team member and other deliverables in the single repo and share the URL of that repo.
+30 Dec,Final,Provide the link of your code and report.
+,,Power point presentation
